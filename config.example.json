@@ -1,9 +1,9 @@
-{
+{ 
   "token": "470002604773212201",
   "mailGuildId": "298883298837528576",
   "mainGuildId": "298883298837528576",
   "logChannelId": "453985895285129228",
-
+  "prefix": "?"
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
 }
